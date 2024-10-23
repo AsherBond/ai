@@ -1,5 +1,12 @@
 # @ai-sdk/provider
 
+## 0.0.26
+
+### Patch Changes
+
+- aa98cdb: chore: more flexible dependency versioning
+- 7b937c5: feat (provider-utils): improve id generator robustness
+
 ## 0.0.25
 
 ### Patch Changes

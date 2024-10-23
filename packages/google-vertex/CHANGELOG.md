@@ -1,5 +1,15 @@
 # @ai-sdk/google-vertex
 
+## 0.0.42
+
+### Patch Changes
+
+- aa98cdb: chore: more flexible dependency versioning
+- Updated dependencies [aa98cdb]
+- Updated dependencies [7b937c5]
+  - @ai-sdk/provider-utils@1.0.22
+  - @ai-sdk/provider@0.0.26
+
 ## 0.0.41
 
 ### Patch Changes

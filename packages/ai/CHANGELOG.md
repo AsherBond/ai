@@ -1,5 +1,21 @@
 # ai
 
+## 3.4.20
+
+### Patch Changes
+
+- aa98cdb: chore: more flexible dependency versioning
+- 7ceed77: feat (ai/core): expose response message for each step
+- Updated dependencies [aa98cdb]
+- Updated dependencies [7b937c5]
+  - @ai-sdk/provider-utils@1.0.22
+  - @ai-sdk/provider@0.0.26
+  - @ai-sdk/ui-utils@0.0.48
+  - @ai-sdk/svelte@0.0.54
+  - @ai-sdk/react@0.0.66
+  - @ai-sdk/vue@0.0.57
+  - @ai-sdk/solid@0.0.52
+
 ## 3.4.19
 
 ### Patch Changes
