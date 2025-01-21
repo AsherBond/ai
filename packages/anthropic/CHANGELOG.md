@@ -1,5 +1,13 @@
 # @ai-sdk/anthropic
 
+## 1.1.1
+
+### Patch Changes
+
+- b284e2c: feat (provider/google-vertex): support prompt caching for Anthropic Claude models
+- Updated dependencies [e7a9ec9]
+  - @ai-sdk/provider-utils@2.1.1
+
 ## 1.1.0
 
 ### Minor Changes
